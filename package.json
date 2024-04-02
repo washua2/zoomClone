@@ -2,6 +2,7 @@
   "name": "yoom",
   "version": "0.1.0",
   "private": true,
+  "homepage": "./",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -21,7 +22,7 @@
     "clsx": "^2.1.0",
     "date-fns": "^3.4.0",
     "lucide-react": "^0.350.0",
-    "next": "14.1.3",
+    "next": "^14.1.4",
     "react": "^18",
     "react-datepicker": "^6.3.0",
     "react-dom": "^18",
